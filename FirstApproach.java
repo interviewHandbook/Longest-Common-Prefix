@@ -12,9 +12,6 @@ public class FirstApproach {
 		
 	}
 	
-	 /*
-	  *   Input String Array: {"flower","floor","flight"}
-      */
 	 public String longestCommonPrefix(String[] strs) {
 		 
 		 String prefix = "";
